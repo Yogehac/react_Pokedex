@@ -1,0 +1,8 @@
+.dex{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.head{
+    text-align: center;
+}

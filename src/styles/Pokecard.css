@@ -1,0 +1,19 @@
+.card{
+    background-color: cyan;
+    width: 200px;
+    height: auto;
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 50px;
+    /* margin: 10px; */
+}
+
+.card-img{
+    width: 100px;
+    transition: 0.5s;
+
+}
+.card-img:hover{
+    transform: scale(1.5);
+}

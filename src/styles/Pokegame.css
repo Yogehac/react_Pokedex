@@ -1,0 +1,18 @@
+.won{
+    background-color: rgb(18, 160, 18);
+    padding: 15px;
+}
+
+.lost{
+    background-color: rgb(185, 27, 27);
+    padding: 15px;
+}
+
+.head{
+    text-align: center;
+    color: cyan;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
